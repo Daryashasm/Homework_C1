@@ -1,0 +1,15 @@
+C:\Users\Рассел\Desktop\Homework 1 C#\3 digit\obj\Debug\net6.0\3 digit.csproj.AssemblyReference.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\3 digit\obj\Debug\net6.0\3 digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рассел\Desktop\Homework 1 C#\3 digit\obj\Debug\net6.0\3 digit.AssemblyInfoInputs.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\3 digit\obj\Debug\net6.0\3 digit.AssemblyInfo.cs
+C:\Users\Рассел\Desktop\Homework 1 C#\3 digit\obj\Debug\net6.0\3 digit.csproj.CoreCompileInputs.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\3 digit\bin\Debug\net6.0\3 digit.exe
+C:\Users\Рассел\Desktop\Homework 1 C#\3 digit\bin\Debug\net6.0\3 digit.deps.json
+C:\Users\Рассел\Desktop\Homework 1 C#\3 digit\bin\Debug\net6.0\3 digit.runtimeconfig.json
+C:\Users\Рассел\Desktop\Homework 1 C#\3 digit\bin\Debug\net6.0\3 digit.dll
+C:\Users\Рассел\Desktop\Homework 1 C#\3 digit\bin\Debug\net6.0\3 digit.pdb
+C:\Users\Рассел\Desktop\Homework 1 C#\3 digit\obj\Debug\net6.0\3 digit.dll
+C:\Users\Рассел\Desktop\Homework 1 C#\3 digit\obj\Debug\net6.0\refint\3 digit.dll
+C:\Users\Рассел\Desktop\Homework 1 C#\3 digit\obj\Debug\net6.0\3 digit.pdb
+C:\Users\Рассел\Desktop\Homework 1 C#\3 digit\obj\Debug\net6.0\3 digit.genruntimeconfig.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\3 digit\obj\Debug\net6.0\ref\3 digit.dll
