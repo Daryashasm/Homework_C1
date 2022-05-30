@@ -1,0 +1,15 @@
+C:\Users\Рассел\Desktop\Homework 1 C#\Multiplicity\obj\Debug\net6.0\Multiplicity.csproj.AssemblyReference.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Multiplicity\obj\Debug\net6.0\Multiplicity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рассел\Desktop\Homework 1 C#\Multiplicity\obj\Debug\net6.0\Multiplicity.AssemblyInfoInputs.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Multiplicity\obj\Debug\net6.0\Multiplicity.AssemblyInfo.cs
+C:\Users\Рассел\Desktop\Homework 1 C#\Multiplicity\obj\Debug\net6.0\Multiplicity.csproj.CoreCompileInputs.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Multiplicity\bin\Debug\net6.0\Multiplicity.exe
+C:\Users\Рассел\Desktop\Homework 1 C#\Multiplicity\bin\Debug\net6.0\Multiplicity.deps.json
+C:\Users\Рассел\Desktop\Homework 1 C#\Multiplicity\bin\Debug\net6.0\Multiplicity.runtimeconfig.json
+C:\Users\Рассел\Desktop\Homework 1 C#\Multiplicity\bin\Debug\net6.0\Multiplicity.dll
+C:\Users\Рассел\Desktop\Homework 1 C#\Multiplicity\bin\Debug\net6.0\Multiplicity.pdb
+C:\Users\Рассел\Desktop\Homework 1 C#\Multiplicity\obj\Debug\net6.0\Multiplicity.dll
+C:\Users\Рассел\Desktop\Homework 1 C#\Multiplicity\obj\Debug\net6.0\refint\Multiplicity.dll
+C:\Users\Рассел\Desktop\Homework 1 C#\Multiplicity\obj\Debug\net6.0\Multiplicity.pdb
+C:\Users\Рассел\Desktop\Homework 1 C#\Multiplicity\obj\Debug\net6.0\Multiplicity.genruntimeconfig.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Multiplicity\obj\Debug\net6.0\ref\Multiplicity.dll
