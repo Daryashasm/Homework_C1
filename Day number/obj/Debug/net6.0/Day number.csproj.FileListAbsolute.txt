@@ -1,0 +1,15 @@
+C:\Users\Рассел\Desktop\Homework 1 C#\Day number\obj\Debug\net6.0\Day number.csproj.AssemblyReference.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Day number\obj\Debug\net6.0\Day number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рассел\Desktop\Homework 1 C#\Day number\obj\Debug\net6.0\Day number.AssemblyInfoInputs.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Day number\obj\Debug\net6.0\Day number.AssemblyInfo.cs
+C:\Users\Рассел\Desktop\Homework 1 C#\Day number\obj\Debug\net6.0\Day number.csproj.CoreCompileInputs.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Day number\bin\Debug\net6.0\Day number.exe
+C:\Users\Рассел\Desktop\Homework 1 C#\Day number\bin\Debug\net6.0\Day number.deps.json
+C:\Users\Рассел\Desktop\Homework 1 C#\Day number\bin\Debug\net6.0\Day number.runtimeconfig.json
+C:\Users\Рассел\Desktop\Homework 1 C#\Day number\bin\Debug\net6.0\Day number.dll
+C:\Users\Рассел\Desktop\Homework 1 C#\Day number\bin\Debug\net6.0\Day number.pdb
+C:\Users\Рассел\Desktop\Homework 1 C#\Day number\obj\Debug\net6.0\Day number.dll
+C:\Users\Рассел\Desktop\Homework 1 C#\Day number\obj\Debug\net6.0\refint\Day number.dll
+C:\Users\Рассел\Desktop\Homework 1 C#\Day number\obj\Debug\net6.0\Day number.pdb
+C:\Users\Рассел\Desktop\Homework 1 C#\Day number\obj\Debug\net6.0\Day number.genruntimeconfig.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Day number\obj\Debug\net6.0\ref\Day number.dll
