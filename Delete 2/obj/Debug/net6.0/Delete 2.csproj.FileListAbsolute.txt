@@ -1,0 +1,15 @@
+C:\Users\Рассел\Desktop\Homework 1 C#\Delete 2\obj\Debug\net6.0\Delete 2.csproj.AssemblyReference.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Delete 2\obj\Debug\net6.0\Delete 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рассел\Desktop\Homework 1 C#\Delete 2\obj\Debug\net6.0\Delete 2.AssemblyInfoInputs.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Delete 2\obj\Debug\net6.0\Delete 2.AssemblyInfo.cs
+C:\Users\Рассел\Desktop\Homework 1 C#\Delete 2\obj\Debug\net6.0\Delete 2.csproj.CoreCompileInputs.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Delete 2\bin\Debug\net6.0\Delete 2.exe
+C:\Users\Рассел\Desktop\Homework 1 C#\Delete 2\bin\Debug\net6.0\Delete 2.deps.json
+C:\Users\Рассел\Desktop\Homework 1 C#\Delete 2\bin\Debug\net6.0\Delete 2.runtimeconfig.json
+C:\Users\Рассел\Desktop\Homework 1 C#\Delete 2\bin\Debug\net6.0\Delete 2.dll
+C:\Users\Рассел\Desktop\Homework 1 C#\Delete 2\bin\Debug\net6.0\Delete 2.pdb
+C:\Users\Рассел\Desktop\Homework 1 C#\Delete 2\obj\Debug\net6.0\Delete 2.dll
+C:\Users\Рассел\Desktop\Homework 1 C#\Delete 2\obj\Debug\net6.0\refint\Delete 2.dll
+C:\Users\Рассел\Desktop\Homework 1 C#\Delete 2\obj\Debug\net6.0\Delete 2.pdb
+C:\Users\Рассел\Desktop\Homework 1 C#\Delete 2\obj\Debug\net6.0\Delete 2.genruntimeconfig.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Delete 2\obj\Debug\net6.0\ref\Delete 2.dll
