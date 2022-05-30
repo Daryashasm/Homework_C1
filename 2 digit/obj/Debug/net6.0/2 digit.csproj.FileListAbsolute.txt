@@ -1,0 +1,15 @@
+C:\Users\Рассел\Desktop\Homework_C1\Homework_C1\2 digit\bin\Debug\net6.0\2 digit.exe
+C:\Users\Рассел\Desktop\Homework_C1\Homework_C1\2 digit\bin\Debug\net6.0\2 digit.deps.json
+C:\Users\Рассел\Desktop\Homework_C1\Homework_C1\2 digit\bin\Debug\net6.0\2 digit.runtimeconfig.json
+C:\Users\Рассел\Desktop\Homework_C1\Homework_C1\2 digit\bin\Debug\net6.0\2 digit.dll
+C:\Users\Рассел\Desktop\Homework_C1\Homework_C1\2 digit\bin\Debug\net6.0\2 digit.pdb
+C:\Users\Рассел\Desktop\Homework_C1\Homework_C1\2 digit\obj\Debug\net6.0\2 digit.csproj.AssemblyReference.cache
+C:\Users\Рассел\Desktop\Homework_C1\Homework_C1\2 digit\obj\Debug\net6.0\2 digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рассел\Desktop\Homework_C1\Homework_C1\2 digit\obj\Debug\net6.0\2 digit.AssemblyInfoInputs.cache
+C:\Users\Рассел\Desktop\Homework_C1\Homework_C1\2 digit\obj\Debug\net6.0\2 digit.AssemblyInfo.cs
+C:\Users\Рассел\Desktop\Homework_C1\Homework_C1\2 digit\obj\Debug\net6.0\2 digit.csproj.CoreCompileInputs.cache
+C:\Users\Рассел\Desktop\Homework_C1\Homework_C1\2 digit\obj\Debug\net6.0\2 digit.dll
+C:\Users\Рассел\Desktop\Homework_C1\Homework_C1\2 digit\obj\Debug\net6.0\refint\2 digit.dll
+C:\Users\Рассел\Desktop\Homework_C1\Homework_C1\2 digit\obj\Debug\net6.0\2 digit.pdb
+C:\Users\Рассел\Desktop\Homework_C1\Homework_C1\2 digit\obj\Debug\net6.0\2 digit.genruntimeconfig.cache
+C:\Users\Рассел\Desktop\Homework_C1\Homework_C1\2 digit\obj\Debug\net6.0\ref\2 digit.dll
