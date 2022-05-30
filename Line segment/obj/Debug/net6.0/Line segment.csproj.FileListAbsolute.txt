@@ -1,0 +1,15 @@
+C:\Users\Рассел\Desktop\Homework 1 C#\Line segment\bin\Debug\net6.0\Line segment.exe
+C:\Users\Рассел\Desktop\Homework 1 C#\Line segment\bin\Debug\net6.0\Line segment.deps.json
+C:\Users\Рассел\Desktop\Homework 1 C#\Line segment\bin\Debug\net6.0\Line segment.runtimeconfig.json
+C:\Users\Рассел\Desktop\Homework 1 C#\Line segment\bin\Debug\net6.0\Line segment.dll
+C:\Users\Рассел\Desktop\Homework 1 C#\Line segment\bin\Debug\net6.0\Line segment.pdb
+C:\Users\Рассел\Desktop\Homework 1 C#\Line segment\obj\Debug\net6.0\Line segment.csproj.AssemblyReference.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Line segment\obj\Debug\net6.0\Line segment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рассел\Desktop\Homework 1 C#\Line segment\obj\Debug\net6.0\Line segment.AssemblyInfoInputs.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Line segment\obj\Debug\net6.0\Line segment.AssemblyInfo.cs
+C:\Users\Рассел\Desktop\Homework 1 C#\Line segment\obj\Debug\net6.0\Line segment.csproj.CoreCompileInputs.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Line segment\obj\Debug\net6.0\Line segment.dll
+C:\Users\Рассел\Desktop\Homework 1 C#\Line segment\obj\Debug\net6.0\refint\Line segment.dll
+C:\Users\Рассел\Desktop\Homework 1 C#\Line segment\obj\Debug\net6.0\Line segment.pdb
+C:\Users\Рассел\Desktop\Homework 1 C#\Line segment\obj\Debug\net6.0\Line segment.genruntimeconfig.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Line segment\obj\Debug\net6.0\ref\Line segment.dll
