@@ -1,0 +1,15 @@
+C:\Users\Рассел\Desktop\Homework 1 C#\Even number\obj\Debug\net6.0\Even number.csproj.AssemblyReference.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Even number\obj\Debug\net6.0\Even number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рассел\Desktop\Homework 1 C#\Even number\obj\Debug\net6.0\Even number.AssemblyInfoInputs.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Even number\obj\Debug\net6.0\Even number.AssemblyInfo.cs
+C:\Users\Рассел\Desktop\Homework 1 C#\Even number\obj\Debug\net6.0\Even number.csproj.CoreCompileInputs.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Even number\bin\Debug\net6.0\Even number.exe
+C:\Users\Рассел\Desktop\Homework 1 C#\Even number\bin\Debug\net6.0\Even number.deps.json
+C:\Users\Рассел\Desktop\Homework 1 C#\Even number\bin\Debug\net6.0\Even number.runtimeconfig.json
+C:\Users\Рассел\Desktop\Homework 1 C#\Even number\bin\Debug\net6.0\Even number.dll
+C:\Users\Рассел\Desktop\Homework 1 C#\Even number\bin\Debug\net6.0\Even number.pdb
+C:\Users\Рассел\Desktop\Homework 1 C#\Even number\obj\Debug\net6.0\Even number.dll
+C:\Users\Рассел\Desktop\Homework 1 C#\Even number\obj\Debug\net6.0\refint\Even number.dll
+C:\Users\Рассел\Desktop\Homework 1 C#\Even number\obj\Debug\net6.0\Even number.pdb
+C:\Users\Рассел\Desktop\Homework 1 C#\Even number\obj\Debug\net6.0\Even number.genruntimeconfig.cache
+C:\Users\Рассел\Desktop\Homework 1 C#\Even number\obj\Debug\net6.0\ref\Even number.dll
